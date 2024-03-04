@@ -1,1 +1,1 @@
-# codespace-ia
+# Projeto de IA usando API da OpenAI para gerar textos usando Whisper para Converter MP3 para Texto
