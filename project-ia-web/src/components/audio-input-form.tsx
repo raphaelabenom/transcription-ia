@@ -6,6 +6,7 @@ import { Button } from './ui/button';
 import { useMemo, useState, useRef } from 'react';
 
 export function AudioInputForm() {
+  // States
   const [audioFile, setAudioFile] = useState<File | null>(null)
   const promptInputRef = useRef<HTMLTextAreaElement>(null)
 
